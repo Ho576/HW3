@@ -1,0 +1,12 @@
+.navItem {
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    
+}
+.nItem{
+    margin-top: 7px;
+}
+.downItem{
+    display: block;
+}
